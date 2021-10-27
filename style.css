@@ -2,7 +2,7 @@
 
 body {
   background-color: #033270;
-  background-image: url("https://unsplash.it/1300/600?random");
+  background-image: url("https://source.unsplash.com/featured/?beach");
   background-size: cover;
   color: #9dcee2;
   font-family: 'Roboto', sans-serif;
@@ -102,4 +102,10 @@ a:hover {
   display: inline-block;
   padding: 0px 20px;
   font-size: 40px;
+}
+
+.ascii-text {
+  font-size: 10pt;
+  font-family: Monospace;
+  white-space: pre;
 }
